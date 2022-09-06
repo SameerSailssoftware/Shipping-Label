@@ -14,7 +14,7 @@ body{
 
 
 .table td, .table th {
-    padding: .75rem;
+    padding: 8px;
     vertical-align: top;
     border-top: 1px solid #e2e8f0;
 }
@@ -59,10 +59,11 @@ input[type=checkbox], input[type=radio] {
   } */
   
   .row{
-      margin: 0;
-      justify-content: center;
-      padding-top: 20px;
-      height: 466px;
+    margin: 0;
+    justify-content: center;
+    padding-top: 20px;
+    height: 430px;
+    width: 1055px;
   
   }
   
