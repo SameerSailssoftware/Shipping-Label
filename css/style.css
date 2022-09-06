@@ -141,6 +141,12 @@ input[type=checkbox], input[type=radio] {
     border: 0.5px solid #31AFE5;
   }
 
+  .btn-primary:hover {
+    color: #fff;
+    background-color: #2FAFE4;
+    border-color: #2FAFE4;
+}
+
   .btngrp{
     display: flex;
     align-content: center;
